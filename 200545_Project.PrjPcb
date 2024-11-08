@@ -378,89 +378,1230 @@ UniqueId=83B1D9B9-64D1-470B-B647-E440E77E1ADF
 Description=Variant of 200545_Project
 AllowFabrication=0
 ParameterCount=1
-VariationCount=49
-Variation1=Designator=C10|UniqueId=\BAFMKGJW|Kind=1|AlternatePart=
-Variation2=Designator=C11|UniqueId=\LFUFVNOM|Kind=1|AlternatePart=
-Variation3=Designator=C12|UniqueId=\DNOHFOBH|Kind=1|AlternatePart=
-Variation4=Designator=R13|UniqueId=\DMTVFBWI|Kind=1|AlternatePart=
-Variation5=Designator=C78|UniqueId=\HPHEMQQR|Kind=1|AlternatePart=
-Variation6=Designator=C77|UniqueId=\TSEFKMZS|Kind=1|AlternatePart=
-Variation7=Designator=C85|UniqueId=\ZPBAYDQB|Kind=1|AlternatePart=
-Variation8=Designator=C84|UniqueId=\OWIFTWBU|Kind=1|AlternatePart=
-Variation9=Designator=C86|UniqueId=\SXESUMGM|Kind=1|AlternatePart=
-Variation10=Designator=C87|UniqueId=\PASAIOXG|Kind=1|AlternatePart=
-Variation11=Designator=C97|UniqueId=\GGALHHYY|Kind=1|AlternatePart=
-Variation12=Designator=C98|UniqueId=\VGKDOCEO|Kind=1|AlternatePart=
-Variation13=Designator=R105|UniqueId=\UIWWQBJT|Kind=1|AlternatePart=
-Variation14=Designator=R106|UniqueId=\AOZDZOCT|Kind=1|AlternatePart=
-Variation15=Designator=C105|UniqueId=\VRFTSDGH|Kind=1|AlternatePart=
-Variation16=Designator=C106|UniqueId=\YHBMTLPZ|Kind=1|AlternatePart=
-Variation17=Designator=R119|UniqueId=\FXINSEES|Kind=1|AlternatePart=
-Variation18=Designator=R120|UniqueId=\YHGCCNKP|Kind=1|AlternatePart=
-Variation19=Designator=R121|UniqueId=\EIWHHBYW|Kind=1|AlternatePart=
-Variation20=Designator=R122|UniqueId=\QMVDIQKK|Kind=1|AlternatePart=
-Variation21=Designator=R123|UniqueId=\PAKUANYQ|Kind=1|AlternatePart=
-Variation22=Designator=C135|UniqueId=\CJCOIWXH|Kind=1|AlternatePart=
-Variation23=Designator=C136|UniqueId=\WUVYJEGO|Kind=1|AlternatePart=
-Variation24=Designator=C137|UniqueId=\TLWBPUHO|Kind=1|AlternatePart=
-Variation25=Designator=C138|UniqueId=\BVFVXQCT|Kind=1|AlternatePart=
-Variation26=Designator=C139|UniqueId=\SWMZSETL|Kind=1|AlternatePart=
-Variation27=Designator=C140|UniqueId=\BBGQDJDX|Kind=1|AlternatePart=
-Variation28=Designator=C141|UniqueId=\ZZNYOSCZ|Kind=1|AlternatePart=
-Variation29=Designator=C142|UniqueId=\LBRHJTUJ|Kind=1|AlternatePart=
-Variation30=Designator=C144|UniqueId=\TDOMYVPD|Kind=1|AlternatePart=
-Variation31=Designator=C149|UniqueId=\DAHIDALU|Kind=1|AlternatePart=
-Variation32=Designator=C151|UniqueId=\EUCGOXOK|Kind=1|AlternatePart=
-Variation33=Designator=C154|UniqueId=\ISPYSPKK|Kind=1|AlternatePart=
-Variation34=Designator=C156|UniqueId=\RTNKLSHH|Kind=1|AlternatePart=
-Variation35=Designator=C73|UniqueId=\YPHXETOU|Kind=1|AlternatePart=
-Variation36=Designator=C79|UniqueId=\EBVGZMTY|Kind=1|AlternatePart=
-Variation37=Designator=C88|UniqueId=\MBAOVQMF|Kind=1|AlternatePart=
-Variation38=Designator=C129|UniqueId=\GUMXVLGN|Kind=1|AlternatePart=
-Variation39=Designator=C71|UniqueId=\SLYKJDIC|Kind=1|AlternatePart=
-Variation40=Designator=R80|UniqueId=\ACTUWSZC|Kind=1|AlternatePart=
-Variation41=Designator=R124|UniqueId=\HTQJGNTL|Kind=1|AlternatePart=
-Variation42=Designator=R127|UniqueId=\ERLBRNQX|Kind=1|AlternatePart=
-Variation43=Designator=R134|UniqueId=\KISOBFHF|Kind=1|AlternatePart=
-Variation44=Designator=R247|UniqueId=\ICLGNWEE|Kind=1|AlternatePart=
-Variation45=Designator=R248|UniqueId=\NOPOVCAF|Kind=1|AlternatePart=
-Variation46=Designator=R255|UniqueId=\IZKTQEJV|Kind=1|AlternatePart=
-Variation47=Designator=R256|UniqueId=\JPHDVRYU|Kind=1|AlternatePart=
-Variation48=Designator=R136|UniqueId=\LKPYBMWR|Kind=1|AlternatePart=
-Variation49=Designator=R141|UniqueId=\HVZZUUFQ|Kind=1|AlternatePart=
+VariationCount=50
+Variation1=Designator=R13|UniqueId=\DMTVFBWI|Kind=1|AlternatePart=
+Variation2=Designator=C78|UniqueId=\HPHEMQQR|Kind=1|AlternatePart=
+Variation3=Designator=C77|UniqueId=\TSEFKMZS|Kind=1|AlternatePart=
+Variation4=Designator=C85|UniqueId=\ZPBAYDQB|Kind=1|AlternatePart=
+Variation5=Designator=C84|UniqueId=\OWIFTWBU|Kind=1|AlternatePart=
+Variation6=Designator=C86|UniqueId=\SXESUMGM|Kind=1|AlternatePart=
+Variation7=Designator=C87|UniqueId=\PASAIOXG|Kind=1|AlternatePart=
+Variation8=Designator=C97|UniqueId=\GGALHHYY|Kind=1|AlternatePart=
+Variation9=Designator=C98|UniqueId=\VGKDOCEO|Kind=1|AlternatePart=
+Variation10=Designator=R105|UniqueId=\UIWWQBJT|Kind=1|AlternatePart=
+Variation11=Designator=R106|UniqueId=\AOZDZOCT|Kind=1|AlternatePart=
+Variation12=Designator=C105|UniqueId=\VRFTSDGH|Kind=1|AlternatePart=
+Variation13=Designator=C106|UniqueId=\YHBMTLPZ|Kind=1|AlternatePart=
+Variation14=Designator=R119|UniqueId=\FXINSEES|Kind=1|AlternatePart=
+Variation15=Designator=R120|UniqueId=\YHGCCNKP|Kind=1|AlternatePart=
+Variation16=Designator=R121|UniqueId=\EIWHHBYW|Kind=1|AlternatePart=
+Variation17=Designator=R122|UniqueId=\QMVDIQKK|Kind=1|AlternatePart=
+Variation18=Designator=R123|UniqueId=\PAKUANYQ|Kind=1|AlternatePart=
+Variation19=Designator=C135|UniqueId=\CJCOIWXH|Kind=1|AlternatePart=
+Variation20=Designator=C136|UniqueId=\WUVYJEGO|Kind=1|AlternatePart=
+Variation21=Designator=C137|UniqueId=\TLWBPUHO|Kind=1|AlternatePart=
+Variation22=Designator=C138|UniqueId=\BVFVXQCT|Kind=1|AlternatePart=
+Variation23=Designator=C139|UniqueId=\SWMZSETL|Kind=1|AlternatePart=
+Variation24=Designator=C140|UniqueId=\BBGQDJDX|Kind=1|AlternatePart=
+Variation25=Designator=C141|UniqueId=\ZZNYOSCZ|Kind=1|AlternatePart=
+Variation26=Designator=C142|UniqueId=\LBRHJTUJ|Kind=1|AlternatePart=
+Variation27=Designator=C144|UniqueId=\TDOMYVPD|Kind=1|AlternatePart=
+Variation28=Designator=C149|UniqueId=\DAHIDALU|Kind=1|AlternatePart=
+Variation29=Designator=C151|UniqueId=\EUCGOXOK|Kind=1|AlternatePart=
+Variation30=Designator=C154|UniqueId=\ISPYSPKK|Kind=1|AlternatePart=
+Variation31=Designator=C156|UniqueId=\RTNKLSHH|Kind=1|AlternatePart=
+Variation32=Designator=C73|UniqueId=\YPHXETOU|Kind=1|AlternatePart=
+Variation33=Designator=C79|UniqueId=\EBVGZMTY|Kind=1|AlternatePart=
+Variation34=Designator=C88|UniqueId=\MBAOVQMF|Kind=1|AlternatePart=
+Variation35=Designator=C129|UniqueId=\GUMXVLGN|Kind=1|AlternatePart=
+Variation36=Designator=C71|UniqueId=\SLYKJDIC|Kind=1|AlternatePart=
+Variation37=Designator=R80|UniqueId=\ACTUWSZC|Kind=1|AlternatePart=
+Variation38=Designator=R124|UniqueId=\HTQJGNTL|Kind=1|AlternatePart=
+Variation39=Designator=R127|UniqueId=\ERLBRNQX|Kind=1|AlternatePart=
+Variation40=Designator=R134|UniqueId=\KISOBFHF|Kind=1|AlternatePart=
+Variation41=Designator=R247|UniqueId=\ICLGNWEE|Kind=1|AlternatePart=
+Variation42=Designator=R248|UniqueId=\NOPOVCAF|Kind=1|AlternatePart=
+Variation43=Designator=R255|UniqueId=\IZKTQEJV|Kind=1|AlternatePart=
+Variation44=Designator=R256|UniqueId=\JPHDVRYU|Kind=1|AlternatePart=
+Variation45=Designator=R136|UniqueId=\LKPYBMWR|Kind=1|AlternatePart=
+Variation46=Designator=R141|UniqueId=\HVZZUUFQ|Kind=1|AlternatePart=
+Variation47=Designator=C114|UniqueId=\WEFTRHIA|Kind=1|AlternatePart=
+Variation48=Designator=C115|UniqueId=\KSNYCTQL|Kind=1|AlternatePart=
+Variation49=Designator=C122|UniqueId=\RLJGHCKE|Kind=1|AlternatePart=
+Variation50=Designator=C123|UniqueId=\KQUPFPJV|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter2_1]
 Name=DNS
 Value=
 
+[GeneratedDocument1]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.G1
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.G2
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.GM
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.ipc
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\601-100668-00-RPRE.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.G1
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.G2
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.GM
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.ipc
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\601-200545-RPRE.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=ALTIUM OUTPUT\607-100668-00-RPRE_MECH\607-100668-00-RPRE_STP.step
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Altium Output\607-100668-00-RXA_MECH\607-100668-00-RXA_DXFBOT.DXF
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Altium Output\607-100668-00-RXA_MECH\607-100668-00-RXA_DXFTOP.DXF
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=ALTIUM OUTPUT\607-200545-RPRE_MECH\607-200545-RPRE_STP.step
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.csv
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.G1
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.G2
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.ipc
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.NET
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.REP
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\100668-00-REV.XA_ODB
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_ASY\100668-00-REV.XA_PLC.txt
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_MECH\100668-00-REV.XA_STP.step
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.csv
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.ipc
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.NET
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\100668-00-REV.XB_ODB
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_MECH\100668-00-REV.XB_STP.step
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.csv
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.G1
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.G2
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.ipc
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.NET
+DItemRevisionGUID=
+
+[GeneratedDocument132]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.REP
+DItemRevisionGUID=
+
+[GeneratedDocument133]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_FAB\100668-00-RXA.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument134]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_MECH\100668-00-RXA_IDF.bdf
+DItemRevisionGUID=
+
+[GeneratedDocument135]
+DocumentPath=ALTIUM OUTPUT\100668-00-RXA_MECH\100668-00-RXA_STP.step
+DItemRevisionGUID=
+
+[GeneratedDocument136]
+DocumentPath=ALTIUM OUTPUT\100669-00-REV.XB_ASY\100669-00-REV.XB_PLC.txt
+DItemRevisionGUID=
+
+[GeneratedDocument137]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument138]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument139]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument140]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument141]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument142]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument143]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument144]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument145]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument146]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument147]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument148]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument149]
+DocumentPath=..\Altium\Design Rule Check - 606-200545.html
+DItemRevisionGUID=
+
+[GeneratedDocument150]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument151]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument152]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument153]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument154]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument155]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument156]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\dielectric_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument157]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument158]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\drill_drawing_l01_top_layer-l04_bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument159]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\drill_guide_l01_top_layer-l04_bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument160]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\drill_non-plated_l04_bottom_layer-l01_top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument161]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\drill_plated_l04_bottom_layer-l01_top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument162]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\l01_top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument163]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\l02_gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument164]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\l03_pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument165]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\l04_bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument166]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument167]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\rout\features
+DItemRevisionGUID=
+
+[GeneratedDocument168]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\titleblock\features
+DItemRevisionGUID=
+
+[GeneratedDocument169]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument170]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument171]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument172]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument173]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument174]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument175]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument176]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument177]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument178]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\dielectric_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument179]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument180]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\drill_drawing_l01_top_layer-l04_bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument181]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\drill_guide_l01_top_layer-l04_bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument182]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\drill_non-plated_l04_bottom_layer-l01_top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument183]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\drill_plated_l04_bottom_layer-l01_top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument184]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\l01_top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument185]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\l02_gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument186]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\l03_pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument187]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\l04_bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument188]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument189]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\rout\features
+DItemRevisionGUID=
+
+[GeneratedDocument190]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\titleblock\features
+DItemRevisionGUID=
+
+[GeneratedDocument191]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument192]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument193]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument194]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument195]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument196]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument197]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument198]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument199]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument200]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\dielectric_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument201]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument202]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\drill_drawing_l01_top_layer-l04_bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument203]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\drill_guide_l01_top_layer-l04_bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument204]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\drill_non-plated_l04_bottom_layer-l01_top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument205]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\drill_plated_l04_bottom_layer-l01_top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument206]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\l01_top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument207]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\l02_gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument208]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\l03_pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument209]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\l04_bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument210]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument211]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\rout\features
+DItemRevisionGUID=
+
+[GeneratedDocument212]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\titleblock\features
+DItemRevisionGUID=
+
+[GeneratedDocument213]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument214]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument215]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument216]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\symbols\uds_rect149.9997x99.18954_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument217]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\symbols\uds_rect149.9997x99.18954_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument218]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\symbols\uds_rect1895.16004x125.99924_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument219]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\symbols\uds_rect1895.16004x125.99924_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument220]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\symbols\uds_rect1995.15984x225.99904_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument221]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\symbols\uds_rect1995.15984x225.99904_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument222]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\symbols\uds_rect2114.92846x125.99924_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument223]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\symbols\uds_rect2114.92846x125.99924_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument224]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\symbols\uds_rect2214.92826x225.99904_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument225]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\symbols\uds_rect2214.92826x225.99904_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument226]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument227]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument228]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument229]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument230]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument231]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument232]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\dielectric_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument233]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument234]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\drill_drawing_l01_top_layer-l04_bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument235]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\drill_guide_l01_top_layer-l04_bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument236]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\drill_non-plated_l04_bottom_layer-l01_top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument237]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\drill_plated_l04_bottom_layer-l01_top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument238]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\l01_top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument239]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\l02_gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument240]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\l03_pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument241]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\l04_bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument242]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument243]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\rout\features
+DItemRevisionGUID=
+
+[GeneratedDocument244]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\titleblock\features
+DItemRevisionGUID=
+
+[GeneratedDocument245]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument246]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument247]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument248]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\symbols\uds_rect149.9997x99.18954_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument249]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\symbols\uds_rect149.9997x99.18954_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument250]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\symbols\uds_rect1895.16004x125.99924_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument251]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\symbols\uds_rect1895.16004x125.99924_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument252]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\symbols\uds_rect1995.15984x225.99904_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument253]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\symbols\uds_rect1995.15984x225.99904_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument254]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\symbols\uds_rect2114.92846x125.99924_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument255]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\symbols\uds_rect2114.92846x125.99924_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument256]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\symbols\uds_rect2214.92826x225.99904_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument257]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\symbols\uds_rect2214.92826x225.99904_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument258]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument259]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument260]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument261]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument262]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument263]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument264]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument265]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument266]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument267]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument268]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument269]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument270]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument271]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument272]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument273]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument274]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\drill_non-plated_l04_bottom_layer-l01_top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument275]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\drill_plated_l04_bottom_layer-l01_top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument276]
+DocumentPath=ALTIUM OUTPUT\601-100668-00-RPRE_FAB\odb\steps\pcb\layers\rout\tools
+DItemRevisionGUID=
+
+[GeneratedDocument277]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\drill_non-plated_l04_bottom_layer-l01_top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument278]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\drill_plated_l04_bottom_layer-l01_top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument279]
+DocumentPath=ALTIUM OUTPUT\601-200545-RPRE_FAB\odb\steps\pcb\layers\rout\tools
+DItemRevisionGUID=
+
+[GeneratedDocument280]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\drill_non-plated_l04_bottom_layer-l01_top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument281]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\drill_plated_l04_bottom_layer-l01_top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument282]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XA_FAB\odb\steps\pcb\layers\rout\tools
+DItemRevisionGUID=
+
+[GeneratedDocument283]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\drill_non-plated_l04_bottom_layer-l01_top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument284]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\drill_plated_l04_bottom_layer-l01_top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument285]
+DocumentPath=ALTIUM OUTPUT\100668-00-REV.XB_FAB\odb\steps\pcb\layers\rout\tools
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Board_Name
-Value=Pendant
+Name=Sch_Revision
+Value=XC
 
 [Parameter2]
-Name=Board_Number
-Value=100668-00
-
-[Parameter3]
-Name=PCB_Revision
-Value=XB
-
-[Parameter4]
-Name=PCBA_NUMBER
-Value=100669-00
-
-[Parameter5]
-Name=PCBA_Revision
-Value=XB
-
-[Parameter6]
 Name=Project_Name
 Value=Cartwell
 
+[Parameter3]
+Name=PCB_Revision
+Value=XC
+
+[Parameter4]
+Name=PCBA_Revision
+Value=XC
+
+[Parameter5]
+Name=PCBA_NUMBER
+Value=100669-00
+
+[Parameter6]
+Name=Board_Number
+Value=100668-00
+
 [Parameter7]
-Name=Sch_Revision
-Value=XB
+Name=Board_Name
+Value=Pendant
 
 [Configuration1]
 Name=Sources
@@ -780,11 +1921,6 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=Wire Bonding Table
-OutputName4=Wire Bonding Table Report
-OutputDocumentPath4=
-OutputVariantName4=[No Variations]
-OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -1449,7 +2585,6 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
-Type154=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWE
