@@ -1,0 +1,14 @@
+Record=TopLevelDocument|FileName=Block_Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=HallEffect_Input.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=Joystick_1.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=Joystick_2.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=LED_Indicators.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=MCU_Peripherals.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=MCU_Power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=Nonredundant_Encoders.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=Revision_Log.SchDoc|SheetNumber=14
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=Rocker_Switches.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=Tactile_Switches.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=Tool_Insertion_Encoders.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=Tool_Insertion_Redundant_Encoders.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=USB.SchDoc|SheetNumber=2
